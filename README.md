@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rodney Mwanje Luguyesi
 ==============================================================================================================================================
 
-Software Engineer | Backend Developer | AI / ML Enthusiast | DevOps | Computer Science Student
+Software Engineer | AI / ML Enthusiast | DevOps | Computer Science Student
 ----------------------------------------------------------------------------------------------
 
 As a recent graduate of the ALX Software engineering program and a current computer science student at Daystar University. I am equipped with strong programming skills in languages such as C, Python, Java, and Kotlin. Additionally, I have a solid understanding of DevOps principles. My Passion for technology and coding has driven me to pursue challenging projects and continuously expand my knowledge.
